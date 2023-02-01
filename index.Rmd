@@ -1,5 +1,5 @@
 ---
-title: "Rahul Rana <br> Investor, [Salt Fund](salt.org) <br> Author, [*Making Moonshots*](https://www.amazon.com/Making-Moonshots-Rahul-Rana/dp/163676620X)"
+title: "Rahul Rana <br> Investor, [Salt Fund](https://www.salt.org/)  <br> Author, [*Making Moonshots*](https://www.amazon.com/Making-Moonshots-Rahul-Rana/dp/163676620X)"
 image: "RR-headshot.jpeg"
 links:
   - label: LinkedIn
@@ -198,20 +198,16 @@ Gritty & Curious: #21 - How to get an interview with a billionaire & How to writ
 ## Portfolio 
 
 64x Bio - Series A 
-<br>
 
 Colossal - Series A
-<br>
 
 Anduril - Series E
-<br>
 
 Circa - Seed (Scout Investment)
-<br>
 
 Avro Life Science - Series A (Scout Investment)
 <br>
-
+<br>
 
 ## Experience
 
@@ -229,7 +225,7 @@ Avro Life Science - Series A (Scout Investment)
 
 **Rutgers University** | New Brunswick, NJ
 
-Finance & Astrophysics | September 2019 - January 2023
+**Finance & Astrophysics** | September 2019 - January 2023
 <br>
 <br>
 
