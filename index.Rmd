@@ -1,0 +1,118 @@
+---
+title: "Rahul Rana <br> Investor at Salt Fund"
+image: "RR-headshot.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/rahul-rana-99b338169/"
+  - label: Twitter
+    url: "https://twitter.com/rrana03_"
+  - label: Not Boring
+    url: "https://www.notboring.co/"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Rahul Rana is a venture builder and investor who is studying astrophysics and finance at Rutgers University. He is currently a Summer Analyst at General Atlantic where he is investing in frontier tech growth equity. Rahul was previously building a frontier biotech research lab, Arcadia Science, where he focused on incubating startups within the in-house moonshot factory. He recently spent a year as a Venture Associate at Lux Capital, a $4bn deeptech venture capital firm.
+
+At Lux Capital, Rahul sourced & diligenced startups related to space, life sciences, climate, and crypto. He also worked on incubating two startups—a biotech company with the thesis of harnessing the "superpowers" of non-model organisms and biodiversity for human medicines, and a space company.
+
+He is the author of [Making Moonshots](https://www.amazon.com/Making-Moonshots-Rahul-Rana/dp/163676620X)—a deep dive into the mindsets, philosophies, and strategies conducive to building moonshot companies. "Moonshot company" entails three things: taking an advanced science or deep technology and using it in a radical solution to solve a big problem in the world.
+
+He became intrigued by deeptech at an early age when he explored his father’s laboratory at the legendary Bell Labs. Rana has discovered the “ecosystem” of what makes a great moonshot company. He has transferred his fascination with researchers and startups that make giant leaps in scientific and technological progress into a prescription. His call to action for entrepreneurs is to embrace what appears at first glance to be impossible, but is actually quite practical when following the best mindsets and strategies harnessed by those who have come before.  
+
+In the past, Rahul has worked across non-technical roles at startups in the nanotech and AI industries. He has also participated in countless content creation roles at various venture capital firms. Finally, Rahul also interned in the NJ-6 Congressional District Office doing public policy work.
+<br>
+<br>
+
+
+## Experience
+
+**Not Boring** | Writer | June 2022 - Present
+
+**General Atlantic** | Summer Analyst | June 2022 - August 2022
+
+**Arcadia Science** | Translational Strategy (and founding intern!) | September 2021 - June 2022
+
+**Lux Capital** | Venture Associate | September 2020 - September 2021
+<br>
+<br>
+
+## Education
+
+**Rutgers University** | New Brunswick, NJ
+
+Finance & Astrophysics | September 2019 - January 2023
+<br>
+<br>
+
+## Content Library
+
+*Featured interviews:*
+
+Business Insider: GEN Z VCS: Meet the top 29 up-and-comers changing the world of venture capital (Business Insider // PDF)
+<br>
+
+The Pomp Podcast: #480: Rahul Rana on Moonshot Ideas (Apple Podcasts //  YouTube)
+<br>
+
+Business Insider: These are the 13 best books written by venture capitalists that every successful startup founder needs to read (Business Insider // PDF )
+<br>
+
+2022
+<br>
+
+
+Built In: I Pitched Jurassic Park to Investors. Here’s What They Said.
+2021
+
+UC Berkeley MBA PE/VC
+Let's Talk Venture: 0.5 - rahul rana (Spotify)
+Deep Tech Insider: Deep Tech Dive #15 | Galvanizing Moonshots (link)
+Sasha Birukoff Podcast
+Canadian Undergraduate Technology Conference (CUTC)
+Zayn Patel Podcast (coming soon)
+Billion Moonshots Podcast (coming soon)
+Broken Bulbs Podcast (coming soon)
+The Knowledge Society: Moonshot Hackathon judge
+UC Berkeley Venture Capital Club: Fireside Chat
+Creator Institute: Creators Fireside Chat
+Sierra College: Young Investors chat (Website)
+Undergraduate Venture Summit: panelist and host (Website)
+The Knowledge Society: fireside chat (Website)
+TEDxLakeManalapan: Unveiling Ignorance: Shedding Light On The World (TEDx)
+OnDeck Catalyst: Founding Fellow (OnDeck)
+OurFuture: #125 Making Moonshots Author, Rahul Rana, on Writing a Book and Landing his Dream Job at Age 19 (Apple Podcasts // Spotify // Web Player)
+Business Insider: The future of NFTS: Gen Z VCs predict which industries will be transformed by non-fungible tokens (Business Insider)  
+Member Almost Founders: MemberAF - Rahul Rana (Author and Associate at 20!) (Spotify // Apple Podcasts)
+Jag Of All Trades: Making Moonshots or Mars-shots? How One Student is Pioneering the GenZ Venture Capital Scene (Spotify)
+The Change Alchemist: Rahul Rana, author of “Making Moonshots" talks about moonshot mindsets, radical creativity and strategies to build moonshot companies‪ (Apple Podcasts)
+Driven By Doing: Creating the mindset and Making Moonshots | Rahul Rana (YouTube)
+Network Capital: The Most Unconventional Way of Breaking Into Venture Capital with Rahul Rana (Website // Apple Podcasts // Spotify // Google Podcasts)
+Gen Z Mafia Fireside Chat
+Broken Bulbs: Intentionally Balanced (017) ( Spotify // Website)
+Knowt Feature
+Dipper Research Partners: fireside chat
+GenZScouts: fireside chat
+Rutgers Venture Capital Club: fireside chat
+STEM Time With Navya and Aishwarya: Interview with Author of Making Moonshots: Rahul Rana (Spotify // Anchor )
+2020
+
+ITSP Magazine + Elevate the Future: "Making Moonshots" And A Conversation About Deep Tech With Rahul Rana | Elevate The Future With Ellen Xu ( Magazine Website)
+Want Money Got Money with Sam Kaman‪i‬: 50: What does it take to build a Moonshot with guest - Rahul Rana (Website // Spotify // Apple Podcasts)
+Marlboro High School TEDx Talk: The Case for Moonshots
+Contrary Capital: Deeptech Funding Guide (Contrary Blog)
+Build the Future Podcast: The Future of Moonshots, Venture, and Technology (Spotify)
+Master Plan Newsletter: Secret Master Plan - Rahul Rana, Making Moonshots (Substack)
+Hero's Mindset Podcast: Changing the World with Moonshots? Rahul Rana explains | Hero's Mindset Podcast EP22 (YouTube)
+Rajit's Show: Ep. #13 - Rahul Rana (Website // Apple Podcasts // Spotify)
+Bexel FrontierTech Conference @ Northwestern University Kellogg MBA
+The FWD Podcast: 469 - An Early Bet On Rahul Rana, Author of Making Moonshots (Webpage // Apple // Spotify // Google Podcasts)
+Moonshot House: Gen Z's Reinterpretation of VC, Episode 1 - The Case for Moonshots  (Kapwing // LinkedIn)
+Heureka Group: Episode 22: An Exclusive Interview with Rahul Rana on "Making Moonshots" (YouTube // Anchor.fm)
+GenZ Launch: EP 41: Interviewing Billionaires and Making Moonshots with Rahul Rana (Apple Podcasts // Spotify)
+The New York Times: Gen Zers Say Silicon Valley Is Elitist and Exclusive. Can They Build a New System? (NY Times)
+JaniceNotes Student Spotlight: Rahul Rana (blog)
+Gritty & Curious: #21 - How to get an interview with a billionaire & How to write a book - Rahul Rana (Apple Podcasts // Spotify)
++ talks at Lehigh University, Open Water Accelerator, Northwestern University Kellogg School of Business (MBA), etc. 
