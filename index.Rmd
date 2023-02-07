@@ -16,13 +16,16 @@ links:
     url: "https://www.kobo.com/us/en/ebook/making-moonshots-1"
   - label: Alexandria Labs
     url: "https://alexandrialabs.xyz/collection/making-moonshots"
+  - label: My Substack
+    url: "https://rrana.substack.com/" 
+    
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Rahul Rana is an incoming Associate and Chief of Staff at [Salt Fund](salt.org), a $200m AUM frontier tech venture capital firm spun out of SkyBridge Capital/SALT Conference. He currently writes for [Not Boring](https://www.notboring.co/), the 2nd largest business Substack with more than 180,000 subscribers. Previously, Rahul was a Summer Analyst at [General Atlantic](https://www.generalatlantic.com/) where he invested in growth equity with the BeyondNetZero climate and B2B Tech teams. Additionally, Rahul previously helped found [Arcadia Science](https://www.arcadiascience.com/), a frontier biotech research lab for which he raised $500m and focused on commercialization strategy. He also spent a year as a Venture Associate at [Lux Capital](https://luxcapital.com/), a $4bn deeptech venture capital firm at which Rahul sourced & diligenced startups related to space, life sciences, climate, national security, and crypto. 
+Rahul Rana is an incoming Associate and Chief of Staff at [Salt Fund](https://www.salt.org/), a $200m AUM frontier tech venture capital firm spun out of SkyBridge Capital/SALT Conference. He currently writes for [Not Boring](https://www.notboring.co/), the 2nd largest business Substack with more than 180,000 subscribers. Previously, Rahul was a Summer Analyst at [General Atlantic](https://www.generalatlantic.com/) where he invested in growth equity with the BeyondNetZero climate and B2B Tech teams. Additionally, Rahul previously helped found [Arcadia Science](https://www.arcadiascience.com/), a frontier biotech research lab for which he raised $500m and focused on commercialization strategy. He also spent a year as a Venture Associate at [Lux Capital](https://luxcapital.com/), a $4bn deeptech venture capital firm at which Rahul sourced & diligenced startups related to space, life sciences, climate, national security, and crypto. 
 
 Rahul is the author of [Making Moonshots](https://www.amazon.com/Making-Moonshots-Rahul-Rana/dp/163676620X)—a deep dive into the mindsets, philosophies, and strategies conducive to building moonshot companies. "Moonshot company" entails three things: taking an advanced science or deep technology and using it in a radical solution to solve a big problem in the world.
 
@@ -39,43 +42,37 @@ In the past, Rahul has held operational roles at startups, venture partner/scout
 Business Insider: GEN Z VCS: Meet the top 29 up-and-comers changing the world of venture capital ([Business Insider](https://www.businessinsider.com/the-top-29-gen-z-vcs-changing-venture-capital-2021-2))
 <br>
 
-The Pomp Podcast: #480: Rahul Rana on Moonshot Ideas (Apple Podcasts //  YouTube)
+The Pomp Podcast: #480: Rahul Rana on Moonshot Ideas ([Apple Podcasts](https://podcasts.apple.com/us/podcast/480-rahul-rana-on-moonshot-ideas/id1434060078?i=1000506865254) // [YouTube](https://youtu.be/LQ60xXQNQLQ))
 <br>
 
-Business Insider: These are the 13 best books written by venture capitalists that every successful startup founder needs to read (Business Insider // PDF )
+Business Insider: These are the 13 best books written by venture capitalists that every successful startup founder needs to read ([Business Insider](https://www.businessinsider.com/best-books-written-venture-capitalists-every-founder-needs-to-read-2021-3))
 <br>
 
 ***2022***
 <br>
 
-Built In: I Pitched Jurassic Park to Investors. Here’s What They Said.
+Built In: I Pitched Jurassic Park to Investors. Here’s What They Said. ([BuiltIn](https://builtin.com/founders-entrepreneurship/jurassic-park-moonshot-investments))
 <br>
 
 ***2021***
 <br>
 
-UC Berkeley MBA PE/VC
+UC Berkeley MBA PE/VC Club
 <br>
 
-Let's Talk Venture: 0.5 - rahul rana (Spotify)
+Let's Talk Venture: 0.5 - rahul rana ([Spotify](https://open.spotify.com/episode/01s6JnxO0o53mg7Sd96iG0?si=mgumiKsVR_KYX_PDMlARSg))
 <br>
 
-Deep Tech Insider: Deep Tech Dive #15 | Galvanizing Moonshots (link)
+Deep Tech Insider: Deep Tech Dive #15 | Galvanizing Moonshots ([Medium](https://thedeeptechinsider.com/2021/08/12/deep-tech-dive-15-galvanizing-moonshots))
 <br>
 
-Sasha Birukoff Podcast
+Canadian Undergraduate Technology Conference (CUTC) Speaker
 <br>
 
-Canadian Undergraduate Technology Conference (CUTC)
+Billion Moonshots Podcast
 <br>
 
-Zayn Patel Podcast (coming soon)
-<br>
-
-Billion Moonshots Podcast (coming soon)
-<br>
-
-Broken Bulbs Podcast (coming soon)
+Broken Bulbs Podcast 
 <br>
 
 The Knowledge Society: Moonshot Hackathon judge
@@ -87,27 +84,28 @@ UC Berkeley Venture Capital Club: Fireside Chat
 Creator Institute: Creators Fireside Chat
 <br>
 
-Sierra College: Young Investors chat (Website)
+Sierra College: Young Investors Club chat
 <br>
 
-Undergraduate Venture Summit: panelist and host (Website)
+Undergraduate Venture Summit: panelist and host ([Website](https://www.runtheworld.today/app/invitation/24711))
 <br>
 
-The Knowledge Society: fireside chat (Website)
+The Knowledge Society: fireside chat ([Website](https://tks.world/))
 <br>
 
-TEDxLakeManalapan: Unveiling Ignorance: Shedding Light On The World (TEDx)
+TEDxLakeManalapan: Unveiling Ignorance: Shedding Light On The World ([TEDx](https://www.ted.com/tedx/events/41696))
 <br>
 
-OnDeck Catalyst: Founding Fellow (OnDeck)
+OnDeck Catalyst: Founding Fellow ([OnDeck](https://www.beondeck.com/catalyst))
 <br>
 
-OurFuture: #125 Making Moonshots Author, Rahul Rana, on Writing a Book and Landing his Dream Job at Age 19 (Apple Podcasts // Spotify // Web Player)
+OurFuture: #125 Making Moonshots Author, Rahul Rana, on Writing a Book and Landing his Dream Job at Age 19 ([Apple Podcasts](https://podcasts.apple.com/us/podcast/125-making-moonshots-author-rahul-rana-on-writing-a/id1511226610?i=1000512806653) //     [Spotify](https://open.spotify.com/episode/0ULCFTmdygw2ZnWRCqrpEA?si=NF3Tqu9pR3isR2tg7UV4Iw))
 <br>
 
-Business Insider: The future of NFTS: Gen Z VCs predict which industries will be transformed by non-fungible tokens (Business Insider)  
+Business Insider: The future of NFTS: Gen Z VCs predict which industries will be transformed by non-fungible tokens ([Business Insider](https://www.businessinsider.com/8-gen-z-vcs-predict-the-future-of-nfts-2021-3))  
 <br>
-Member Almost Founders: MemberAF - Rahul Rana (Author and Associate at 20!) (Spotify // Apple Podcasts)
+
+Member Almost Founders: MemberAF - Rahul Rana (Author and Associate at 20!) ([Spotify](https://open.spotify.com/episode/2xtpuk5enBi7nkISQKHa3e?si=l2bncHPrRPiKZKpyxZHwRg) // [Apple Podcasts](https://podcasts.apple.com/gb/podcast/almost-founders/id1537142326))
 <br>
 
 Jag Of All Trades: Making Moonshots or Mars-shots? How One Student is Pioneering the GenZ Venture Capital Scene (Spotify)
