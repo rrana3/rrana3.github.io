@@ -1,5 +1,5 @@
 ---
-title: "Rahul Rana <br> Investor, [Salt Fund](https://www.salt.org/)  <br> Author, [*Making Moonshots*](https://www.amazon.com/Making-Moonshots-Rahul-Rana/dp/163676620X) <br> Writer, [Not Boring](https://www.notboring.co/)"
+title: "Rahul Rana <br> Investor, [SALT Fund](https://www.salt.org/)  <br> Author, [*Making Moonshots*](https://www.amazon.com/Making-Moonshots-Rahul-Rana/dp/163676620X) <br> Writer, [Not Boring](https://www.notboring.co/)"
 image: "RR-headshot.jpeg"
 links:
   - label: LinkedIn
@@ -25,7 +25,7 @@ output:
  
 ## Bio
 
-Rahul Rana is an Associate & Chief of Staff at [Salt Fund](https://www.salt.org/), a $200m AUM frontier tech venture capital firm spun out of SkyBridge Capital/SALT Conference. He currently writes for [Not Boring](https://www.notboring.co/), the 2nd largest business Substack with more than 200,000 subscribers. Previously, Rahul was a Summer Analyst at [General Atlantic](https://www.generalatlantic.com/) where he invested in growth equity with the BeyondNetZero climate and B2B Tech teams. Additionally, Rahul previously helped found [Arcadia Science](https://www.arcadiascience.com/), a frontier biotech research lab for which he raised $500m and focused on commercialization strategy. He also spent a year as a Venture Associate at [Lux Capital](https://luxcapital.com/), a $5bn deeptech venture capital firm at which Rahul sourced & diligenced startups related to space, life sciences, climate, national security, and crypto.     
+Rahul Rana is an Associate & Chief of Staff at [SALT Fund](https://www.salt.org/), a $200m AUM frontier tech venture capital firm spun out of SkyBridge Capital/SALT Conference. He currently writes for [Not Boring](https://www.notboring.co/), the 2nd largest business Substack with more than 200,000 subscribers. Previously, Rahul was a Summer Analyst at [General Atlantic](https://www.generalatlantic.com/) where he invested in growth equity with the BeyondNetZero climate and B2B Tech teams. Additionally, Rahul previously helped found [Arcadia Science](https://www.arcadiascience.com/), a frontier biotech research lab for which he raised $500m and focused on commercialization strategy. He also spent a year as a Venture Associate at [Lux Capital](https://luxcapital.com/), a $5bn deeptech venture capital firm at which Rahul sourced & diligenced startups related to space, life sciences, climate, national security, and crypto.     
 
 Rahul is the author of [Making Moonshots](https://www.amazon.com/Making-Moonshots-Rahul-Rana/dp/163676620X)—a deep dive into the mindsets, philosophies, and strategies conducive to building moonshot companies. "Moonshot company" entails three things: taking an advanced science or deep technology and using it in a radical solution to solve a big problem in the world.
 
