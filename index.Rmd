@@ -1,6 +1,6 @@
 ---
 title: "Rahul Rana <br> Investor, [SALT Fund](https://www.salt.org/)  <br> Author, [*Making Moonshots*](https://www.amazon.com/Making-Moonshots-Rahul-Rana/dp/163676620X) <br> Writer, [Not Boring](https://www.notboring.co/)"
-image: "RR-headshot.jpeg"
+image: "NR23RanaRahul5603N.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/rahul-rana-99b338169/"
